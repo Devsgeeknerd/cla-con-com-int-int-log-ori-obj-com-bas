@@ -2,7 +2,7 @@
 # Iframe
 
 * ***Iframe***
-  * Ela se transforma em um mini navegador dentro do site.
+> Ela se transforma em um mini navegador dentro do site.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
